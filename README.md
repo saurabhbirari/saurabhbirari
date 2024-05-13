@@ -37,6 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -56,14 +60,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/saurabhbirari/saurabhbirari/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=saurabhbirari&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=saurabhbirari&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://profile-counter.glitch.me/saurabhbirari/count.svg?"  />
 </div>
 
 ###
